@@ -18,4 +18,12 @@
     <string name="Text">TextView_text</string>
     <string name="task1_editText_hint">Введите текст</string>
     <string name="task1_button_text">Нажми чтобы применить</string>
+    <string name="task2_hint_nik">Ник</string>
+    <string name="task2_hint_name">Имя</string>
+    <string name="task2_hint_phone">Телефон</string>
+    <string name="task2_hint_age">Возраст</string>
+    <string name="task2_hint_email">email</string>
+    <string name="task2_hint_password">Пароль</string>
+    <string name="task2_text">Регистрация ползователя</string>
+    <string name="task2_button_text">применить</string>
 </resources>
