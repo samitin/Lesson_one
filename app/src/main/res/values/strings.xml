@@ -11,4 +11,11 @@
     <string name="hello_world">Hello World!</string>
     <string name="title_activity_task2">Task2Activity</string>
     <string name="title_activity_task3">Task3Activity</string>
+    <string name="task1_swith_text">Жырный шрифт</string>
+    <string name="task1_checkBox_text">курсив</string>
+    <string name="task1_toggleButton_textOff">Зеленый текст</string>
+    <string name="task1_toggleButton_textOn">Крассный текст</string>
+    <string name="Text">TextView_text</string>
+    <string name="task1_editText_hint">Введите текст</string>
+    <string name="task1_button_text">Нажми чтобы применить</string>
 </resources>
