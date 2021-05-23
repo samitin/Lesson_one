@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Lesson_one</string>
+    <string name="main_menu_button_text_1">Задание 1</string>
+    <string name="main_menu_button_text_2">Задание 2</string>
+    <string name="main_menu_button_text_3">Задание 3</string>
 </resources>
